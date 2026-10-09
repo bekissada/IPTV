@@ -1,0 +1,38 @@
+#EXTINF:-1,[Clean Feed] Thai PBS 3
+https://thaipbs-qsps6r.cdn.byteark.com/fleetstream/camera3/1080p/index.m3u8
+
+#EXTINF:-1,[Clean Feed] Thai PBS 4
+https://thaipbs-qsps6r.cdn.byteark.com/fleetstream/camera4/1080p/index.m3u8
+
+#EXTINF:-1,[Clean Feed] Thai PBS 5
+https://vipa-oqjr7o.cdn.byteark.com/fleetstream/main/1080p/index.m3u8
+
+#EXTINF:-1,[Clean Feed] Thai PBS 6
+https://vipa-oqjr7o.cdn.byteark.com/fleetstream/camera1/1080p/index.m3u8
+
+#EXTINF:-1,[Clean Feed] Thai PBS 7
+https://vipa-oqjr7o.cdn.byteark.com/fleetstream/camera2/1080p/index.m3u8
+
+#EXTINF:-1,TPTV 10
+https://tv-live.tpchannel.org/live/tv.m3u8
+
+#EXTINF:-1,[Clean Feed] รัฐสภา Channel 1
+https://ch1-live.tpchannel.org/live/channel1.m3u8
+
+#EXTINF:-1,[Clean Feed] รัฐสภา Channel 2
+https://ch2-live.tpchannel.org/live/channel2.m3u8
+
+#EXTINF:-1,EFM94
+https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
+
+#EXTINF:-1,GREEN WAVE 106.5 FM
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+
+#EXTINF:-1,HOT WAVE
+https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
+
+#EXTINF:-1,Flex 104.5
+https://streaming.flexconnect.net/vdoflex/vdoflex/playlist.m3u8
+
+#EXTINF:-1,People Radio Plus
+https://hp2.hostpleng.cloud/8308/;
