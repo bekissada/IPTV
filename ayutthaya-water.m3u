@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="river-01" tvg-name="วัดศาลาปูน" group-title="กล้องระดับน้ำ อยุธยา",วัดศาลาปูน
+https://aya-water.powerclawai.com/hls/river-01/index.m3u8
+
+#EXTINF:-1 tvg-id="river-02" tvg-name="ตรงข้ามกองบังคับการโรงงานซ่อมยาง" group-title="กล้องระดับน้ำ อยุธยา",ตรงข้ามกองบังคับการโรงงานซ่อมยาง
+https://aya-water.powerclawai.com/hls/river-02/index.m3u8
+
+#EXTINF:-1 tvg-id="river-03" tvg-name="หลังศาลเจ้าแม่ต้นจัน (ตลาดหัวรอ)" group-title="กล้องระดับน้ำ อยุธยา",หลังศาลเจ้าแม่ต้นจัน (ตลาดหัวรอ)
+https://aya-water.powerclawai.com/hls/river-03/index.m3u8
+
+#EXTINF:-1 tvg-id="river-04" tvg-name="ใต้สะพานปรีดี-ธำรง" group-title="กล้องระดับน้ำ อยุธยา",ใต้สะพานปรีดี-ธำรง
+https://aya-water.powerclawai.com/hls/river-04/index.m3u8
+
+#EXTINF:-1 tvg-id="river-05" tvg-name="พระตำหนักสิริยาลัย" group-title="กล้องระดับน้ำ อยุธยา",พระตำหนักสิริยาลัย
+https://aya-water.powerclawai.com/hls/river-05/index.m3u8
