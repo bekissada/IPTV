@@ -1,3 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1,NHK World Premium
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1,NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1,BBC News [UK]
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1,BBC News (World)
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8
+
+#EXTINF:-1,NBT 2HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist.m3u8
+
+#EXTINF:-1,NBT Northeast (ภาคอีสาน)
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist.m3u8
+
+#EXTINF:-1,NBT North (ภาคเหนือ)
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist.m3u8
+
+#EXTINF:-1,NBT South (ภาคใต้)
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist.m3u8
+
+#EXTINF:-1,NBT Central (ภาคกลาง)
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist.m3u8
+
+#EXTINF:-1,Thai PBS
+https://thaipbs-mcx0wm.cdn.byteark.com/vtt-live/playlist.m3u8
+
+#EXTINF:-1,[Clean Feed] Thai PBS 1
+https://thaipbs-qsps6r.cdn.byteark.com/fleetstream/camera1/1080p/index.m3u8
+
+#EXTINF:-1,[Clean Feed] Thai PBS 2
+https://thaipbs-qsps6r.cdn.byteark.com/fleetstream/camera2/1080p/index.m3u8
+
 #EXTINF:-1,[Clean Feed] Thai PBS 3
 https://thaipbs-qsps6r.cdn.byteark.com/fleetstream/camera3/1080p/index.m3u8
 
